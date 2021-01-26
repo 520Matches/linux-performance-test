@@ -1,7 +1,7 @@
 # linux-performance-test
 (Linux system performance test script) linux的系统性能测试脚本
 
-![image](https://github.com/520Matches/linux-performance-test/tree/main/images/bench.png)
+![image](https://github.com/520Matches/linux-performance-test/blob/main/images/bench.png)
 
 > 运行下面其中任意一组即可，需要在root用户下运行
 
