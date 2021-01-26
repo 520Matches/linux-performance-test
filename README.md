@@ -1,6 +1,10 @@
 # linux-performance-test
 (Linux system performance test script) linux的系统性能测试脚本
 
+![image](https://github.com/520Matches/linux-performance-test/images/bench.png)
+
+> 运行下面其中任意一组即可，需要在root用户下运行
+
 ```bash
 wget -qO- git.io/superbench.sh | bash
 curl -LsO git.io/superbench.sh; chmod +x superbench.sh
