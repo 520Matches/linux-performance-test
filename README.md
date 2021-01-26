@@ -23,5 +23,5 @@ wget https://raw.githubusercontent.com/oooldking/script/master/superspeed.sh && 
 //路由测试
 ```bash
 wget https://raw.githubusercontent.com/nanqinlang-script/testrace/master/testrace.sh
-bash testrace.sh%
+bash testrace.sh
 ```
